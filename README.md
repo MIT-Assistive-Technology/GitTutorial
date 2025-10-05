@@ -6,4 +6,4 @@ violets are blue,
 
 `git commit -m `, 
 
-`here's a merge conflict for you :)`
+`"here's a merge conflict for you :)"`
