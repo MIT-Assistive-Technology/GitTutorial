@@ -1,8 +1,2 @@
-Add your names here!
-Bob
-Lianeeeeeee muahahaha
-Carys
-Minh
-Sophia
-maggie
-Catherine (cxzhao)
+Add your names here! Format: Name (kerb)
+Catherine Zhao (cxzhao)
