@@ -6,5 +6,9 @@ Kaemyn Brown (kaemyn04)
 Emily Liu (eql)
 Anthony Zheng (azheng50)
 Hunter Miller (hgmiller)
+<<<<<<< HEAD
 Tai Yu Lin (tai_lin)
 Serena Lu (serenalu)
+=======
+Amy Kuang (amykuang)
+>>>>>>> amykuang
