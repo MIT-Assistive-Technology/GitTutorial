@@ -2,4 +2,11 @@ Add your names here! Format: Name (kerb)
 Catherine Zhao (cxzhao)
 Alison Soong (soong)
 Noah Ren (noahren)
+<<<<<<< HEAD
 Kaemyn Brown (kaemyn04)
+=======
+Emily Liu (eql)
+Anthony Zheng (azheng50)
+Hunter Miller (hgmiller)
+Tai Yu Lin (tai_lin)
+>>>>>>> tai_lin
