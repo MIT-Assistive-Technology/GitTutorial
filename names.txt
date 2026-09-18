@@ -11,8 +11,15 @@ Aanya Patel (aanya924)
 Arav Chand (achand@college.harvard.edu)
 Kaemyn Brown (kaemyn04)
 Tai Yu Lin (tai_lin)
+<<<<<<< HEAD
+Darcy Miller (darcym)
+>>>>>>> tai_lin
+=======
 Serena Lu (serenalu)
 Amy Kuang (amykuang)
 Brody Aysun (baysun)
 Angelina Li (angjli)
+Hana King (hanaking)
+Tage Mehta (tagem)
+
 Star Hernandez (starlher) 
