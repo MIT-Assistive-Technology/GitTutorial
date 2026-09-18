@@ -6,6 +6,12 @@ Kaemyn Brown (kaemyn04)
 Emily Liu (eql)
 Anthony Zheng (azheng50)
 Hunter Miller (hgmiller)
+<<<<<<< HEAD
+Tai Yu Lin (tai_lin)
+Kaemyn Brown (kaemyn04)
+Kavya Bansal (bansalk)
+=======
 Minh Tran (minhtrn)
 Luna Hudman (segtree)
 Brody Aysun (baysun)
+>>>>>>> 2b42e8c4007379050a3018aecd1096575b6d432b
