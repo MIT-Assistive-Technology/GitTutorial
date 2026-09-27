@@ -19,5 +19,11 @@ Angelina Li (angjli)
 Hana King (hanaking)
 Tage Mehta (tagem)
 Annie Chen (chennie)
+<<<<<<< HEAD
 Star Hernandez (starlher)
 Abdii Turi (aturi0)
+=======
+Star Hernandez (starlher)
+Elizabeth Chung (eychung)
+Zalea Nunes (zaleay)
+>>>>>>> main
